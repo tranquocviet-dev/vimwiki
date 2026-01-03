@@ -14,4 +14,3 @@ something something notetaking system
 
 # diary (not used for note taking just a calendar)
 [diary](diary)
-a
