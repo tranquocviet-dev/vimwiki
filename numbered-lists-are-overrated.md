@@ -1,0 +1,11 @@
+# numbered lists are overrated
+- they really only exist for humans to understand
+- take up more space
+- require setup to continue the list automatically
+- exiting a list takes time
+- indent with tab can work instead
+- main usage is really to
+	- create hub of connection
+	- create todo lists with checkboxes faster
+
+[thoughts](thoughts)

@@ -1,0 +1,4 @@
+# about others
+everyone has tasks of their own
+everyone will have to do their own tasks
+we cant do others tasks for them

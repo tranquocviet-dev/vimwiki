@@ -1,0 +1,6 @@
+# life is simple
+there is no cause-and-effect in life
+every action one takes is their choice
+everything can be broken down to preference
+	if they do it, they like to do it
+	if they dont do it, they dont like it
