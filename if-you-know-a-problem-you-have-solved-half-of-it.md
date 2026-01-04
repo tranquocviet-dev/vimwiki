@@ -8,3 +8,4 @@ emphasises understanding and truly grasp the
 scope of the problem
 
 [quotes](quotes)
+[my-mindset](my-mindset)

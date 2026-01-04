@@ -1,0 +1,5 @@
+# be careful of what you say
+what one says is indicative of their mindset
+be very careful not to let out too much of your thoughts
+
+[quotes](quotes)
