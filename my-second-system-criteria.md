@@ -1,0 +1,15 @@
+# my second system criteria
+had to use as little folders to store info as possible
+i have to understand what each type of note was used for
+learned from the first experiment that i want to link note
+no tags, no property edits
+no templates, reduce rigidness
+the form has to be simple enough to reproduce by hand
+- quickly
+- cleanly
+- still allow for structural allocation
+
+inspired by [[jonmsterling.com]], kepano's vast formats
+i went back to a familiar place in... vim?
+
+[searching-for-the-perfect-learning-system](searching-for-the-perfect-learning-system)

@@ -1,0 +1,16 @@
+# my first system, zettelkasten + neovim
+[[zk-org/zk-nvim]] as a base plugin
+uses zettelkasten
+- 3 types of note
+	- one for daily notes and thoughts
+	- one for writing from sources
+	- one for storing concepts
+uses folders for file storing
+
+had much success early on due to being simple
+problem arose when the folder structure caused seperation
+i couldnt understand what the "daily" notes was for
+this system was not sustainable, so i find another
+created [my-first-system-criteria](my-first-system-criteria)
+
+[searching-for-the-perfect-learning-system](searching-for-the-perfect-learning-system)

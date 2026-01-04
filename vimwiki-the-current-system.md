@@ -1,0 +1,17 @@
+# vimiwki, the current system
+the beginning of all
+the system is once again, reliable and simple
+more simple than ever
+- simply markdown files with no extras
+- has an index page and map of contents for navigation
+- structure emphasize understanding the usage
+if i want to write about a new thing i can create a empty
+map of contents and start writing immediately
+
+this approach finally put emphasis on files rather than
+format which makes it changable
+even as i wrote the script of this video i changed the
+format multiple times, but the content stays in a way
+i can understand all the same
+
+[[searching-for-the-perfect-learning-system]]

@@ -11,6 +11,7 @@ something something notetaking system
 - [notes](notes)
 - [people](people)
 - [todo](todo)
+- [video](video)
 
 # diary (not used for note taking just a calendar)
 [diary](diary)
