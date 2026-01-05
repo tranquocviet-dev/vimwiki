@@ -5,9 +5,9 @@ learned from the first experiment that i want to link note
 no tags, no property edits
 no templates, reduce rigidness
 the form has to be simple enough to reproduce by hand
-* quickly
-* cleanly
-* still allow for structural allocation
+- quickly
+- cleanly
+- still allow for structural allocation
 
 inspired by [[jonmsterling.com]], kepano's vast formats
 i went back to a familiar place in... vim?

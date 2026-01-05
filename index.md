@@ -15,3 +15,8 @@ something something notetaking system
 
 # diary (not used for note taking just a calendar)
 [diary](diary)
+
+# inspirations:
+[jon-m-sterling](jon-m-sterling)
+[sylvan-franklin](sylvan-franklin)
+[steph-ango](steph-ango)

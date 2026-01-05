@@ -1,7 +1,7 @@
 # my original goals
 create a place where i could store meaningful info
-* i dont like the feeling of forcing myself
-* it should intergrate into my own life
+- i dont like the feeling of forcing myself
+- it should intergrate into my own life
 allow me to truly learn and understand more information
 have a page where i could look back on past knowledge
 
