@@ -2,9 +2,9 @@
 the beginning of all
 the system is once again, reliable and simple
 more simple than ever
-- simply markdown files with no extras
-- has an index page and map of contents for navigation
-- structure emphasize understanding the usage
+* simply markdown files with no extras
+* has an index page and map of contents for navigation
+* structure emphasize understanding the usage
 if i want to write about a new thing i can create a empty
 map of contents and start writing immediately
 

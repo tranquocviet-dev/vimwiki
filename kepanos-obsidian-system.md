@@ -2,22 +2,22 @@
 [[https://stephango.com/vault]]
 uses templates for everything, reducing writing time
 has almost every single thing i want
-- a clear direction
-- a working, simple system
-- the usage of files are clear cut
-- the style is consistent
-- emphasis on linking
+* a clear direction
+* a working, simple system
+* the usage of files are clear cut
+* the style is consistent
+* emphasis on linking
 
 i wrote with this for a long time
 but i noticed some issues with this approach
-- i didnt start with his templates rather his system and
+* i didnt start with his templates rather his system and
 developed my own
-- forcing me to make my own templates all the time
-- i was having to input and insert tags everywhere
-- relied too much on obsidian to insert templates
-- thus, relied too much on templates
-- this isnt a file-first approach, rather format-first
-- sometimes take too long to write
+* forcing me to make my own templates all the time
+* i was having to input and insert tags everywhere
+* relied too much on obsidian to insert templates
+* thus, relied too much on templates
+* this isnt a file-first approach, rather format-first
+* sometimes take too long to write
 multiple small problems rather than big issues
 meant that this isnt sustainable
 

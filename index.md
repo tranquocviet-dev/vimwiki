@@ -5,13 +5,13 @@ something something notetaking system
 [tran-quoc-viet](tran-quoc-viet)
 
 # filesystem
-- [thoughts](thoughts)
-- [books](books)
-- [quotes](quotes)
-- [notes](notes)
-- [people](people)
-- [todo](todo)
-- [video](video)
+[thoughts](thoughts)
+[books](books)
+[quotes](quotes)
+[notes](notes)
+[people](people)
+[todo](todo)
+[video](video)
 
 # diary (not used for note taking just a calendar)
 [diary](diary)
