@@ -7,4 +7,4 @@ its actually making us approach the problem in a different way
 afterall AI are just tools
 humans are the ones that use them
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

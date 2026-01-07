@@ -4,4 +4,4 @@ the style is nice
 it does its job
 once you learn it you can use it almost everywhere
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

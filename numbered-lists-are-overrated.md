@@ -8,4 +8,4 @@ main usage is really to
 - create hub of connection
 - create todo lists with checkboxes faster
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

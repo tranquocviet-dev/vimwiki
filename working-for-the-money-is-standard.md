@@ -5,4 +5,4 @@ it means one is willing to sacrifice comfort for their own goals
 rather than seeing it as selfish i see it as necessary for one's development
 only once one has the means to help themselves should they wield the means to help others
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

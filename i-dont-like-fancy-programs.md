@@ -7,4 +7,4 @@ this also applies to "second brain" type stuff
 they are so dumb (dude its just a note taking
 system...)
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

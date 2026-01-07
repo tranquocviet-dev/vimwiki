@@ -5,7 +5,7 @@ something something notetaking system
 [tran-quoc-viet](tran-quoc-viet)
 
 # filesystem
-[thoughts](thoughts)
+[thoughts](thoughts.md)
 [books](books)
 [quotes](quotes)
 [notes](notes)

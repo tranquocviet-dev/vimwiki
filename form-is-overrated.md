@@ -4,4 +4,4 @@ in my opinion it slows down progress
 the most optimal would be to start, finish, change
 that way changing the format would be the final step
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

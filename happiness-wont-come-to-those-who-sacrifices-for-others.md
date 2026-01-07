@@ -5,4 +5,4 @@ because sacrificing means actively ignoring ones happiness in favour of others
 i dont care if it is noble the truth is that you are ignoring yourself
 and that isnt happiness
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)

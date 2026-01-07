@@ -8,4 +8,4 @@ because it doesnt matter how the site's content is displayed
 after some time of using users will understand where the things they are looking for are
 so its just a matter of **how long does it take for them to get to where they want**
 
-[thoughts](thoughts)
+[thoughts](thoughts.md)
