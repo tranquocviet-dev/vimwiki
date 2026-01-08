@@ -22,3 +22,7 @@ sorted by date
 # [[2026-01-07]]
 - [results-are-over-emphasized](results-are-over-emphasized)
 - [happiness-wont-come-to-those-who-sacrifices-for-others](happiness-wont-come-to-those-who-sacrifices-for-others)
+
+# [[2026-01-08]]
+- [live-without-regret](live-without-regret)
+- [dont-think-about-the-past](dont-think-about-the-past)
