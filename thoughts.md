@@ -31,3 +31,7 @@ sorted by date
 - [complication-in-colors](complication-in-colors)
 - [my-final-setup](my-final-setup)
 - [having-something-to-think-about-feels-nice](having-something-to-think-about-feels-nice)
+
+# 2026-01-10
+- [the-importance-of-having-a-consistent-theme](the-importance-of-having-a-consistent-theme)
+- [what-it-means-to-get-a-setup-right](what-it-means-to-get-a-setup-right)
