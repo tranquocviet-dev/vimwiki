@@ -1,0 +1,7 @@
+# the importance of constantly trying to improve
+stagnation is more common than you think, it comes from a lack of trying to improve
+what most athletes wont tell you is that ego is important, as it is the catalyst to more effort organically
+they also wont tell you that the motivation on others is not sustainable in high levels of competition
+it is you who must muster up the need to improve, to win, to get better
+
+[thoughts](thoughts)

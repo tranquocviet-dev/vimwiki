@@ -35,3 +35,7 @@ sorted by date
 # 2026-01-10
 - [the-importance-of-having-a-consistent-theme](the-importance-of-having-a-consistent-theme)
 - [what-it-means-to-get-a-setup-right](what-it-means-to-get-a-setup-right)
+
+# 2026-01-11
+- [the-importance-of-constantly-trying-to-improve](the-importance-of-constantly-trying-to-improve)
+- [the-biggest-improvements-come-from-the-smallest-chanes](the-biggest-improvements-come-from-the-smallest-chanes)

@@ -1,0 +1,8 @@
+# the biggest improvement come from the smallest change
+i used to think that to become better one must come through massive changes and sacrifices
+that a 180 is nessesary for a new look
+but now i understand the magnitude of small changes 
+many small changes accumulate to illustrate a bigger picture
+and the current self of i is closer to what i envision than i initially thought
+
+[thoughts](thoughts)
