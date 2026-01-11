@@ -1,4 +1,4 @@
-# the task of life
+# the-tasks-of-life
 life tasks involve
 - live
 - happiness

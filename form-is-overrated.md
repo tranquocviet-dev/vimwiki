@@ -1,4 +1,4 @@
-# form is overrated
+# form-is-overrated
 when people start writing they focus too much on form
 in my opinion it slows down progress
 the most optimal would be to start, finish, change

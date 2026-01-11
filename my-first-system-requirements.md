@@ -1,4 +1,4 @@
-# my first system requirements
+# my-first-system-requirements
 has to have some form of organizing
 has to be familiar (neovim preferred)
 has to be adaptable enough

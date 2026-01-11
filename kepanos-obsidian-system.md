@@ -1,4 +1,4 @@
-# kepano's obsidian system
+# kepanos-obsidian-system
 [[https://stephango.com/vault]]
 uses templates for everything, reducing writing time
 has almost every single thing i want

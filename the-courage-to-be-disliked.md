@@ -1,4 +1,4 @@
-# the courage to be disliked
+# the-courage-to-be-disliked
 author: ichiro-kishimi and fumitake-koga
 
 [life-is-simple](life-is-simple)

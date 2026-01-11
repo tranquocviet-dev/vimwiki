@@ -1,4 +1,4 @@
-# what makes a website convenient
+# what-makes-a-website-convenient
 as stated in [i-dont-like-the-word-better](i-dont-like-the-word-better) i wont use **good** or **better**
 the thing that makes a website convenient is accessibility
 is the amount of links one can click on in a single screen that leads to meaningful places

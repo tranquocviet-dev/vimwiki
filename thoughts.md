@@ -1,4 +1,4 @@
-# thoughts page
+# thoughts
 sorted by date
 
 # 2026-01-03
@@ -39,3 +39,4 @@ sorted by date
 # 2026-01-11
 - [the-importance-of-constantly-trying-to-improve](the-importance-of-constantly-trying-to-improve)
 - [the-biggest-improvements-come-from-the-smallest-chanes](the-biggest-improvements-come-from-the-smallest-chanes)
+- [the-potential-of-man-lies-on-their-ability-to-understand](the-potential-of-man-lies-on-their-ability-to-understand)

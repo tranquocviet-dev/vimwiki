@@ -1,4 +1,4 @@
-# searching for the perfect learning system (for me)
+# searching-for-the-perfect-learning-system
 
 [introducing-myself](introducing-myself)
 [a-lack-of-evidence](a-lack-of-evidence)

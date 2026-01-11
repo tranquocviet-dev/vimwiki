@@ -1,4 +1,4 @@
-# results are over emphasized
+# results-are-over-emphasized
 it feels to me as if the end goal of every single project is results
 dont get me wrong results are important
 but not *that* important

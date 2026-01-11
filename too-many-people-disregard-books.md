@@ -1,4 +1,4 @@
-# too many people disregard books
+# too-many-people-disregard-books
 
 you have to go back to the video multiple times before understanding
 books build up knowledge without beforehand knowledge

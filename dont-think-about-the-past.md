@@ -1,4 +1,4 @@
-# dont think about the past
+# dont-think-about-the-past
 the past cant control who you are
 you control what your past looks like in your mind
 failures look like progress

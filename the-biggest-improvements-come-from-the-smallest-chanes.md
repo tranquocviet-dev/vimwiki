@@ -1,4 +1,4 @@
-# the biggest improvement come from the smallest change
+# the-biggest-improvements-come-from-the-smallest-chanes
 i used to think that to become better one must come through massive changes and sacrifices
 that a 180 is nessesary for a new look
 but now i understand the magnitude of small changes 

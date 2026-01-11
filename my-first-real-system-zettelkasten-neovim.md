@@ -1,4 +1,4 @@
-# my first system, zettelkasten + neovim
+# my-first-real-system-zettelkasten-neovim
 [[zk-org/zk-nvim]] as a base plugin
 uses zettelkasten
 3 types of note

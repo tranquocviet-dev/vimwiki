@@ -1,4 +1,4 @@
-# markdown is king
+# markdown-is-king
 the syntax is very flexible
 the style is nice
 it does its job

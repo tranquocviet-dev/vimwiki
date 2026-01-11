@@ -1,4 +1,4 @@
-# complication in colors
+# complication-in-colors
 i really like solarized, its one of my favourite colorschemes of all time
 but sometimes it is too hard on the eye
 i cant really describe it, like for some reason the version of solarized im on is bugged and displays far too bright colors for my liking

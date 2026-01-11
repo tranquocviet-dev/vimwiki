@@ -1,4 +1,4 @@
-# my original goals
+# my-initial-goals-when-creating-a-learning-system
 create a place where i could store meaningful info
 - i dont like the feeling of forcing myself
 - it should intergrate into my own life

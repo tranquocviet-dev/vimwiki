@@ -1,4 +1,4 @@
-# my first real attempt at a learning system
+# the-first-attempt-at-a-learning-system
 i just went straight ahead into creating a folder of info
 used the best tool that google suggested (obsidian)
 it worked, but had many problems

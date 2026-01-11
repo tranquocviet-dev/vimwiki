@@ -1,4 +1,4 @@
-# no such thing as a free lunch
+# no-such-thing-as-a-free-lunch
 emphasize working to get the result
 nothing will be done without working
 

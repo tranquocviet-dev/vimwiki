@@ -1,4 +1,4 @@
-# a lack of evidence
+# a-lack-of-evidence
 i have always disliked
 - taking notes
 - writing journals

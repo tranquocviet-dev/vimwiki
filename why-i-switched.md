@@ -1,4 +1,4 @@
-# documenting why i switched sides
+# why-i-switched
 previous method was uninterchangable
 had too much reliance on program (obsidian)
 too reliant on templates

@@ -1,4 +1,4 @@
-# if you know a problem you have solved a half
+# if-you-know-a-problem-you-have-solved-half-of-it
 
 the original quote is
 _if you can write a problem down consisely

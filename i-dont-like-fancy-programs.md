@@ -1,4 +1,4 @@
-# i dont like fancy programs
+# i-dont-like-fancy-programs
 they are simply too unecessary
 takes a bunch of time to setup
 still does the same thing

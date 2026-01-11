@@ -1,4 +1,4 @@
-# questioning the validity of music when working
+# questioning-the-validity-of-music-when-working
 people say that listening to music decreases your working pace
 is that true though?
 id say no, because its not that clear cut

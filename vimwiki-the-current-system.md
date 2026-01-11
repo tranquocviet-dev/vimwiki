@@ -1,4 +1,4 @@
-# vimiwki, the current system
+# vimwiki-the-current-system
 the beginning of all
 the system is once again, reliable and simple
 more simple than ever

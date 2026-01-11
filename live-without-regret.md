@@ -1,4 +1,4 @@
-# live without regret
+# live-without-regret
 do
 dont think about consequences of failing
 dont think about it not being worth it

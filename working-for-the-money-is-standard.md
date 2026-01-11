@@ -1,4 +1,4 @@
-# working for the money is standard
+# working-for-the-money-is-standard
 people mostly expect working is for the sake of completing tasks, helping, etc
 which is why working for the money should also be respected
 it means one is willing to sacrifice comfort for their own goals

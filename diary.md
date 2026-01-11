@@ -1,4 +1,4 @@
-# Diary
+# diary
 
 ## 2026
 

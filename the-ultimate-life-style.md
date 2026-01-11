@@ -1,4 +1,4 @@
-# the ultimate life style
+# the-ultimate-life-style
 it isnt that one has become better than others
 it simply is that one is free from doubt
 one will also attain the desire to contribute

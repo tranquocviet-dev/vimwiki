@@ -1,4 +1,4 @@
-# learn to code anything
+# learn-to-code-anything
 by [daniel-hirsch](daniel-hirsch)
 
 

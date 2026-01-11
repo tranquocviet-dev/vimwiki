@@ -1,1 +1,1 @@
-# finite and infinite games
+# finite-and-infinite-games

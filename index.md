@@ -1,4 +1,4 @@
-# index page
+# index
 something something notetaking system
 
 # author
