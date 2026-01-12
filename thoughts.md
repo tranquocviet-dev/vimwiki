@@ -44,3 +44,4 @@ sorted by date
 # 2026-01-12
 - [2026-01-12-we-are-constantly-evolving](2026-01-12-we-are-constantly-evolving)
 - [2026-01-12-mundane-tasks-are-under-appreciated](2026-01-12-mundane-tasks-are-under-appreciated)
+- [2026-01-12-i3-is-everything-i-want-and-need](2026-01-12-i3-is-everything-i-want-and-need)
