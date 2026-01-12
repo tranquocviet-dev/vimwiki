@@ -1,4 +1,4 @@
-# what-it-means-to-get-a-setup-right
+# 2026-01-10-what-it-means-to-get-a-setup-right
 i think it is more a matter of understanding the purpose of your setup than making it look good
 some setup looks bad but is very functional, like you cant switch away from it
 others try to look nice but fails when the condition is infavourable 

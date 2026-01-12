@@ -14,7 +14,7 @@ something something notetaking system
 [video](video)
 
 # diary (not used for note taking just a calendar)
-[Diary](Diary.md)
+[diary](diary)
 
 # inspirations:
 [jon-m-sterling](jon-m-sterling)

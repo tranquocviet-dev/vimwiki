@@ -1,4 +1,4 @@
-# numbered-lists-are-overrated
+# 2026-01-03-numbered-lists-are-overrated
 they really only exist for humans to understand
 take up more space
 require setup to continue the list automatically

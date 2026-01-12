@@ -1,4 +1,4 @@
-# i-dont-like-fancy-programs
+# 2026-01-03-i-dont-like-fancy-programs
 they are simply too unecessary
 takes a bunch of time to setup
 still does the same thing

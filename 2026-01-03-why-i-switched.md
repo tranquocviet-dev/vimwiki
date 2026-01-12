@@ -1,4 +1,4 @@
-# why-i-switched
+# 2026-01-03-why-i-switched
 previous method was uninterchangable
 had too much reliance on program (obsidian)
 too reliant on templates

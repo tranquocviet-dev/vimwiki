@@ -1,4 +1,4 @@
-# the-biggest-improvements-come-from-the-smallest-chanes
+# 2026-01-11-the-biggest-improvements-come-from-the-smallest-chanes
 i used to think that to become better one must come through massive changes and sacrifices
 that a 180 is nessesary for a new look
 but now i understand the magnitude of small changes 
