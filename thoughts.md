@@ -40,6 +40,7 @@ sorted by date
 - [2026-01-11-the-importance-of-constantly-trying-to-improve](2026-01-11-the-importance-of-constantly-trying-to-improve.md)
 - [2026-01-11-the-biggest-improvements-come-from-the-smallest-chanes](2026-01-11-the-biggest-improvements-come-from-the-smallest-chanes.md)
 - [2026-01-11-the-potential-of-man-lies-on-their-ability-to-understand](2026-01-11-the-potential-of-man-lies-on-their-ability-to-understand.md)
+
 # 2026-01-12
 - [2026-01-12-we-are-constantly-evolving](2026-01-12-we-are-constantly-evolving)
 - [2026-01-12-mundane-tasks-are-under-appreciated](2026-01-12-mundane-tasks-are-under-appreciated)
