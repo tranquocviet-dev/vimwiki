@@ -1,6 +1,0 @@
-# haste-makes-waste
-take time working to ensure the product is finished
-avoids the trap of creating an unfinished product
-
-[quotes](quotes)
-[my-mindset](my-mindset)

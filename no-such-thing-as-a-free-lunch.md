@@ -1,6 +1,0 @@
-# no-such-thing-as-a-free-lunch
-emphasize working to get the result
-nothing will be done without working
-
-[quotes](quotes)
-[my-mindset](my-mindset)

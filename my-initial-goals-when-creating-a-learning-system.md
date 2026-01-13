@@ -1,8 +1,0 @@
-# my-initial-goals-when-creating-a-learning-system
-create a place where i could store meaningful info
-- i dont like the feeling of forcing myself
-- it should intergrate into my own life
-allow me to truly learn and understand more information
-have a page where i could look back on past knowledge
-
-[searching-for-the-perfect-learning-system](searching-for-the-perfect-learning-system)

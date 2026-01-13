@@ -6,8 +6,8 @@ something something notetaking system
 
 # filesystem
 [thoughts](thoughts.md)
-[books](books)
-[quotes](quotes)
+[books](books.md)
+[quotes](quotes.md)
 [notes](notes)
 [people](people)
 [todo](todo)

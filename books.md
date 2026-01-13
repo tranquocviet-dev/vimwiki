@@ -1,7 +1,5 @@
 # books
-sorted by alphabet
-
-[finite-and-infinite-games](finite-and-infinite-games)
-[the-art-of-doing-science-and-engineering](the-art-of-doing-science-and-engineering)
-[the-courage-to-be-disliked](the-courage-to-be-disliked)
+the courage to be disliked [bk001](bk001.md)
+finite and infinite games [bk002](bk002.md)
+the art of doing science and engineering [bk003](bk003.md)
 

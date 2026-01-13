@@ -1,5 +1,6 @@
 # video
-place where i create scripts, ordered by date
-
-[searching-for-the-perfect-learning-system](searching-for-the-perfect-learning-system)
-[learn-to-code-anything](learn-to-code-anything)
+place where i create scripts or write down thoughts and learnings from videos
+(s)elf made:
+searching for the perfect learning system [vs001](vs001.md)
+(d)ocuments
+learn to code anything [vd001](vd001.md)
