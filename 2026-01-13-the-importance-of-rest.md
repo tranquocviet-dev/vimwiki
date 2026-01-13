@@ -1,0 +1,7 @@
+# 2026-01-13-the-importance-of-rest
+
+stress is a state. it isnt an emotion
+meaning you cant cure it with just words and happiness from others into you
+you have to go out of your way to rest and solve it
+
+[thoughts](thoughts)

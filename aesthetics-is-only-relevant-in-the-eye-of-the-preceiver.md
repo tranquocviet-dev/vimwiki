@@ -1,0 +1,7 @@
+# aesthetics-is-only-relevant-in-the-eye-of-the-preceiver
+
+beauty is subjective
+sadness is subjective
+anything we do is just preparation to accept this truth
+
+[quotes](quotes)
