@@ -1,14 +1,14 @@
 # quotes
 sorted by date
 
-[if-you-know-a-problem-you-have-solved-half-of-it](if-you-know-a-problem-you-have-solved-half-of-it)
-[never-defend-yourself](never-defend-yourself)
-[never-complain](never-complain)
-[dont-tell-them-show-them](dont-tell-them-show-them)
-[learn-to-respond-not-react](learn-to-respond-not-react)
-[be-careful-of-what-you-say](be-careful-of-what-you-say)
-[sit-still](sit-still)
-[a-stitch-in-time-saves-nine](a-stitch-in-time-saves-nine)
-[haste-makes-waste](haste-makes-waste)
-[no-such-thing-as-a-free-lunch](no-such-thing-as-a-free-lunch)
-[aesthetics-is-only-relevant-in-the-eye-of-the-preceiver](aesthetics-is-only-relevant-in-the-eye-of-the-preceiver)
+if-you-know-a-problem-you-have-solved-half-of-it [[qt00001]]
+never-defend-yourself [[qt00002]]
+never-complain [[qt00003]]
+dont-tell-them-show-them [[qt00004]]
+learn-to-respond-not-react [[qt00005]]
+be-careful-of-what-you-say [[qt00006]]
+sit-still [[qt00007]]
+a-stitch-in-time-saves-nine [[qt00008]]
+haste-makes-waste [[qt00009]]
+no-such-thing-as-a-free-lunch [[qt00010]]
+aesthetics-is-only-relevant-in-the-eye-of-the-preceiver [[qt00011]]

@@ -1,51 +1,34 @@
 # thoughts
-sorted by date
 
-# 2026-01-03
-- [2026-01-03-why-i-switched](2026-01-03-why-i-switched.md)
-- [2026-01-03-i-dont-like-fancy-programs](2026-01-03-i-dont-like-fancy-programs.md)
-- [2026-01-03-i-dont-like-capital-letters](2026-01-03-i-dont-like-capital-letters.md)
-- [2026-01-03-i-dont-like-the-word-better](2026-01-03-i-dont-like-the-word-better.md)
-- [2026-01-03-numbered-lists-are-overrated](2026-01-03-numbered-lists-are-overrated.md)
-
-# 2026-01-05
-- [2026-01-05-form-is-overrated](2026-01-05-form-is-overrated.md)
-- [2026-01-05-markdown-is-king](2026-01-05-markdown-is-king.md)
-- [2026-01-05-working-for-the-money-is-standard](2026-01-05-working-for-the-money-is-standard.md)
-- [2026-01-05-lesson-learned-from-grok-usage](2026-01-05-lesson-learned-from-grok-usage.md)
-- [2026-01-05-what-makes-a-website-convenient](2026-01-05-what-makes-a-website-convenient.md)
-
-# 2026-01-06
-- [2026-01-06-i-dont-think-theres-a-problem-with-being-normal](2026-01-06-i-dont-think-theres-a-problem-with-being-normal.md)
-- [2026-01-06-questioning-the-validity-of-music-when-working](2026-01-06-questioning-the-validity-of-music-when-working.md)
-
-# 2026-01-07
-- [2026-01-07-results-are-over-emphasized](2026-01-07-results-are-over-emphasized.md)
-- [2026-01-07-happiness-wont-come-to-those-who-sacrifices-for-others](2026-01-07-happiness-wont-come-to-those-who-sacrifices-for-others.md)
-
-# 2026-01-08
-- [2026-01-08-live-without-regret](2026-01-08-live-without-regret.md)
-- [2026-01-08-dont-think-about-the-past](2026-01-08-dont-think-about-the-past.md)
-
-# 2026-01-09
-- [2026-01-09-complication-in-colors](2026-01-09-complication-in-colors.md)
-- [2026-01-09-my-final-setup](2026-01-09-my-final-setup.md)
-- [2026-01-09-having-something-to-think-about-feels-nice](2026-01-09-having-something-to-think-about-feels-nice.md)
-
-# 2026-01-10
-- [2026-01-10-the-importance-of-having-a-consistent-theme](2026-01-10-the-importance-of-having-a-consistent-theme.md)
-- [2026-01-10-what-it-means-to-get-a-setup-right](2026-01-10-what-it-means-to-get-a-setup-right.md)
-
-# 2026-01-11
-- [2026-01-11-the-importance-of-constantly-trying-to-improve](2026-01-11-the-importance-of-constantly-trying-to-improve.md)
-- [2026-01-11-the-biggest-improvements-come-from-the-smallest-chanes](2026-01-11-the-biggest-improvements-come-from-the-smallest-chanes.md)
-- [2026-01-11-the-potential-of-man-lies-on-their-ability-to-understand](2026-01-11-the-potential-of-man-lies-on-their-ability-to-understand.md)
-
-# 2026-01-12
-- [2026-01-12-we-are-constantly-evolving](2026-01-12-we-are-constantly-evolving)
-- [2026-01-12-mundane-tasks-are-under-appreciated](2026-01-12-mundane-tasks-are-under-appreciated)
-- [2026-01-12-i3-is-everything-i-want-and-need](2026-01-12-i3-is-everything-i-want-and-need)
-
-# 2026-01-13
-- [2026-01-13-the-importance-of-rest](2026-01-13-the-importance-of-rest)
-- [2026-01-13-the-lack-of-trust-i-have-with-corporations](2026-01-13-the-lack-of-trust-i-have-with-corporations)
+i switched to vimwiki [[th00001]]
+i dont like configuring stuff [[th00002]]
+i dont like capital letters [[th00003]]
+i dont like the word better [[th00004]]
+uhh something something list [[th00005]]
+form is overrated [[th00006]]
+markdown is king [[th00007]]
+working for money is okay [[th00008]]
+ai is there [[th00009]]
+accessibility is important [[th00010]]
+normal is okay [[th00011]]
+music when working [[th00012]]
+results are overrated [[th00013]]
+sacrifice is stupid [[th00014]]
+just do [[th00015]]
+you cant control the past [[th00016]]
+solarized is nice [[th00017]]
+setup recap [[th00018]]
+keep finding your taste [[th00019]]
+consistency is key [[th00020]]
+what it means to get a setup right [[th00021]]
+ego is nice actually [[th00022]]
+small changes contribute to much bigger stuff [[th00023]]
+understanding is key [[th00024]]
+never give up [[th00025]]
+simple tasks are key [[th00026]]
+i3 is amazing [[th00027]]
+to live is to change [[th00028]]
+to change is to accept [[th00029]]
+understand the difficulty of change [[th00030]]
+i have a lack of trust towards big corps [[th00031]]
+the importance of rest [[th00032]]

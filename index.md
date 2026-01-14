@@ -1,22 +1,26 @@
 # index
 something something notetaking system
 
+# tasks
+- [ ] add names to old thoughts files
+- [ ] redo 
+
 # author
-[tran-quoc-viet](tran-quoc-viet)
+[[tran-quoc-viet]]
 
 # filesystem
-[thoughts](thoughts.md)
-[books](books.md)
-[quotes](quotes.md)
-[notes](notes)
-[people](people)
-[todo](todo)
-[video](video)
+[[thoughts.md]]
+[[books.md]]
+[[quotes.md]]
+[[notes]]
+[[people]]
+[[todo]]
+[[video]]
 
 # diary (not used for note taking just a calendar)
-[diary](diary)
+[[diary]]
 
 # inspirations:
-[jon-m-sterling](jon-m-sterling)
-[sylvan-franklin](sylvan-franklin)
-[steph-ango](steph-ango)
+[[jon-m-sterling]]
+[[sylvan-franklin]]
+[[steph-ango]]

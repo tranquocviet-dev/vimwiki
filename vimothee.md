@@ -1,2 +1,2 @@
 # vimothee
-see [sylvan-franklin](sylvan-franklin)
+see [[sylvan-franklin]]
