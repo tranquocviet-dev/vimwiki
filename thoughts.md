@@ -1,34 +1,35 @@
 # thoughts
 
-i switched to vimwiki [[th00001]]
-i dont like configuring stuff [[th00002]]
-i dont like capital letters [[th00003]]
-i dont like the word better [[th00004]]
-uhh something something list [[th00005]]
-form is overrated [[th00006]]
-markdown is king [[th00007]]
-working for money is okay [[th00008]]
-ai is there [[th00009]]
-accessibility is important [[th00010]]
-normal is okay [[th00011]]
-music when working [[th00012]]
-results are overrated [[th00013]]
-sacrifice is stupid [[th00014]]
-just do [[th00015]]
-you cant control the past [[th00016]]
-solarized is nice [[th00017]]
-setup recap [[th00018]]
-keep finding your taste [[th00019]]
-consistency is key [[th00020]]
-what it means to get a setup right [[th00021]]
-ego is nice actually [[th00022]]
-small changes contribute to much bigger stuff [[th00023]]
-understanding is key [[th00024]]
-never give up [[th00025]]
-simple tasks are key [[th00026]]
-i3 is amazing [[th00027]]
-to live is to change [[th00028]]
-to change is to accept [[th00029]]
-understand the difficulty of change [[th00030]]
-i have a lack of trust towards big corps [[th00031]]
-the importance of rest [[th00032]]
+i switched to vimwiki [th00001](th00001.md)
+i dont like configuring stuff [th00002](th00002.md)
+i dont like capital letters [th00003](th00003.md)
+i dont like the word better [th00004](th00004.md)
+uhh something something list [th00005](th00005.md)
+form is overrated [th00006](th00006.md)
+markdown is king [th00007](th00007.md)
+working for money is okay [th00008](th00008.md)
+ai is there [th00009](th00009.md)
+accessibility is important [th00010](th00010.md)
+normal is okay [th00011](th00011.md)
+music when working [th00012](th00012.md)
+results are overrated [th00013](th00013.md)
+sacrifice is stupid [th00014](th00014.md)
+just do [th00015](th00015.md)
+you cant control the past [th00016](th00016.md)
+solarized is nice [th00017](th00017.md)
+setup recap [th00018](th00018.md)
+keep finding your taste [th00019](th00019.md)
+consistency is key [th00020](th00020.md)
+what it means to get a setup right [th00021](th00021.md)
+ego is nice actually [th00022](th00022.md)
+small changes contribute to much bigger stuff [th00023](th00023.md)
+understanding is key [th00024](th00024.md)
+never give up [th00025](th00025.md)
+simple tasks are key [th00026](th00026.md)
+i3 is amazing [th00027](th00027.md)
+to live is to change [th00028](th00028.md)
+to change is to accept [th00029](th00029.md)
+understand the difficulty of change [th00030](th00030.md)
+i have a lack of trust towards big corps [th00031](th00031.md)
+the importance of rest [th00032](th00032.md)
+people are simple and complex at the same time [th00033](th00033)

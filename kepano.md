@@ -1,2 +1,2 @@
 # kepano
-see [[steph-ango]]
+see [steph-ango](steph-ango.md)
