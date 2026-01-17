@@ -42,3 +42,7 @@ whats the point of doing everything the hard way anyway [th00039](th00039.md)
 the worst thing about markdown isnt even its fault [th00040](th00040)
 issue solving test [th00041](th00041)
 why i tried emacs [th00042](th00042)
+wait [th00043](th00043)
+testing vimzettel [testing vimzettel ](260117-1139)
+[vim zettel is awesome](260117-1155)
+okay fuck formatting old stuff imma write new stuff instead
