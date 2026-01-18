@@ -1,9 +1,9 @@
 # index
 something something notetaking system
 
-# tasks
+TODO
 - [X] add names to old thoughts files
-- [ ] 1 article
+- [ ] create a programs that calculate simple functions in c
 
 # author
 [tran-quoc-viet](tran-quoc-viet.md)
@@ -16,9 +16,6 @@ something something notetaking system
 [people](people.md)
 [todo](todo.md)
 [video](video.md)
-
-# diary (not used for note taking just a calendar)
-[diary](diary.md)
 
 # inspirations:
 [jon-m-sterling](jon-m-sterling.md)
