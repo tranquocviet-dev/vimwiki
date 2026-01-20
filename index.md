@@ -21,3 +21,4 @@ TODO
 [jon-m-sterling](jon-m-sterling.md)
 [sylvan-franklin](sylvan-franklin.md)
 [steph-ango](steph-ango.md)
+[tsoding](tsoding)
